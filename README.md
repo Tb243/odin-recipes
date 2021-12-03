@@ -4,4 +4,4 @@
 
 ### Test readme for odin project
 
-Porject for practising basic HTML concepts.
+Project for practising basic HTML concepts.
