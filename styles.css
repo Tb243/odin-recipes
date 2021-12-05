@@ -1,0 +1,17 @@
+*{
+  background-color: #1496BB;
+}
+h1,
+p{
+  color: white;
+}
+ul,
+li,
+a{
+  background-color: #6D94A8;
+  width: 200px;
+}
+h1{
+  border: 5px solid #6D94A8;
+  width: 600px;
+}
