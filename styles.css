@@ -1,17 +1,42 @@
 *{
   background-color: #1496BB;
+  font-family: Helvetica, serif;
 }
-h1,
+h1{
+  border: 5px solid #6D94A8;
+  border-radius: 15px;
+  color: #6D94A8;
+  background-color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
 p{
   color: white;
 }
 ul,
 li,
 a{
-  background-color: #6D94A8;
-  width: 200px;
+  background-color: white;
+  width: 50%;
+  border-radius: 15px;
+
 }
-h1{
+
+ul{
   border: 5px solid #6D94A8;
-  width: 600px;
+  padding: 15px;
+  list-style-type: none;
+
+}
+
+.recipe{
+  font-weight: bold;
+
+
+}
+.recipe-container{
+  min-width: 300px;
+  justify-content: center;
+  display: flex;
 }
